@@ -30,3 +30,14 @@ li{
     list-style: none;
     background-color: rgb(137, 137, 208);
 }
+/* mouse over link */
+a:hover {
+    color: red;
+  }
+  
+  /* selected link */
+a:active {
+    color: yellow;
+  }
+    
+
